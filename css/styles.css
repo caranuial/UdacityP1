@@ -1,0 +1,48 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+    color: #747704;
+    }
+
+h1 {
+    font-weight: 100;
+    letter-spacing: 5px;
+    }
+
+h2 {
+    text-transform:uppercase;
+    }
+
+h3 {
+    color: #BCBBBB;
+    font-weight: 300;
+    }
+
+a, a:hover {
+    text-decoration: none;
+    color: #747704;
+    }
+
+
+/*from http://codeitdown.com/css-round-buttons/ */
+.round-button {
+    display:block;
+    width:100px;
+    height:100px;
+    line-height:90px;
+    border: 6px solid #F8981C;
+    border-radius: 50%;
+    color:#f8981c;
+    text-align:center;
+    font-weight: bold;
+    font-family: 'Trade Winds', cursive;
+    font-size:36px;
+    letter-spacing: 5px;
+    }
+
+.page-header{
+    border-bottom: 5px solid #BCBBBB;
+    }
